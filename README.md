@@ -1,2 +1,16 @@
 # Thesis-Codes
 MCDM, PYTHON, MACHINE LEARNING ALGORITHMS
+
+Multi-Criteria Decision-Making METHOD:
+1.AHP
+2.SAW
+3.VIKOR
+
+MACHINE LEARNING ALGORITHMS:
+1.SVM
+2.ANN
+3.KNN
+4.GPC
+
+Popular Programming Language:
+PYTHON
